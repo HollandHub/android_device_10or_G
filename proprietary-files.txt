@@ -211,7 +211,7 @@ vendor/lib/libtrueportrait.so
 vendor/lib/libubifocus.so
 
 # Camera (Bin) - from E-user 8.1.0 OPM1.171019.019 10or_E_V1_0_109 release-keys
-vendor/bin/mm-qcamera-daemon|41a2e40294176eefd4ae388865f4e9666973f172
+vendor/bin/mm-qcamera-daemon
 
 # Camera - from Hydrogen 7.0/NRD90M/V10.3.2.0.NBCCNXM
 vendor/lib/libllvd_smore.so|740de4c339772df80858ddd9390f91ead71eadeb
